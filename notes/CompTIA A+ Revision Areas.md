@@ -2,23 +2,6 @@
 
 ---
 
-## 📊 Learning Progress
-
-### Completed So Far
-
-- **CompTIA Tech+ curriculum**
-  - Certificate of completion gained
-  - ~7 hours total
-
-- **CompTIA A+ course**
-  - Completed in full (~30 hours of content)
-
-- **TryHackMe**
-  - Completed various rooms
-  - Completed Modules 1–4 of the Pre-Security path
-
----
-
 ## 🧠 CompTIA A+ Areas to Revise
 
 ### Networking Ports
