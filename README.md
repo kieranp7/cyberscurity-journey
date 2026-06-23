@@ -7,7 +7,7 @@ I'm currently working through structured curricula in the areas below, alongside
 ## Qualifications
 
 ### Academic
-- BSc (Hons) Computer Science
+- BSc (Hons) in Computer Science
 - Level 2 Certificate in Principles of Cybersecurity
 
 ### Industry Certifications
