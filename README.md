@@ -2,7 +2,7 @@
 
 I'm Kieran and I hold a BSc in Computer Science, with the goal of transitioning into Cybersecurity.
 
-I'm currently working through structured curricula in the areas below, alongside TryHackMe & Hack The Box rooms and practical lab sessions for hands-on experience.
+I'm currently working through structured curricula in the areas below, alongside TryHackMe rooms, Hack The Box rooms and practical lab sessions for hands-on experience.
 
 ## Qualifications
 
