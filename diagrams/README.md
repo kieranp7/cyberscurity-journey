@@ -1,6 +1,6 @@
 # Diagrams
 
-This folder holds visual material created while working through the cybersecurity journey - anything that's easier to understand as a picture than as text.
+This folder holds visual material created while working through the cyber security journey - anything that's easier to understand as a picture than as text.
 
 ## What goes here
 
