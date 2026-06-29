@@ -27,16 +27,12 @@
   - Package managers
   - Basic Linux commands
 
----
-
 ### Security
 
 - Physical vs logical security controls
 - Windows security concepts
   - NTFS permissions vs share permissions
   - Active Directory basics
-
----
 
 ### Operational Procedures
 
