@@ -1,6 +1,6 @@
 # Notes
 
-This is the running journal for my cybersecurity journey - informal, regular, and written by me as I go.
+This is the running journal for my cyber security journey - informal, regular, and written by me as I go.
 
 ## What goes here
 
