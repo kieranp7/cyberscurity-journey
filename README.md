@@ -15,6 +15,11 @@ I'm currently working through structured curricula in the areas below, alongside
 ### Industry Certifications
 - In progress
 
+### Certificates of Completion
+- TryHackMe Pre Security Path
+- ITCS CompTIA A+
+- ITCS CompTIA Tech+
+  
 ---
 
 ## Practical Experience
